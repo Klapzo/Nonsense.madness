@@ -4,5 +4,5 @@
 
 def main():
 
-  print("console log")
+  print("console log");
   pass

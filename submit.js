@@ -6,7 +6,3 @@
 function submit(){
   console.log("")
 }
-
-
-
-

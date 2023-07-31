@@ -1,1 +1,6 @@
 #no
+
+
+
+def main():
+  pass

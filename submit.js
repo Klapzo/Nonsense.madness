@@ -1,8 +1,5 @@
 
 
-
-
-
 function submit(){
   console.log("")
 }
